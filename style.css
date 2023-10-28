@@ -1,0 +1,60 @@
+h1{
+    color: red;
+    background-color: black;
+    margin: 0px;
+}
+
+h2{
+    color: #fff;
+    margin-top: 50px;
+    margin-left: 40px;
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-family: 'Sarabun', sans-serif;
+    font-size:xx-large;
+
+}
+p{
+    color: #fff;
+    margin-top:0ic;
+    margin-left: 40px;
+    font-size: 12px;
+    font-family: 'Raleway', sans-serif;
+}
+h6{
+    color: #fff;
+    margin-left: 40px;
+    padding-top: 0;
+    font-size: 12px;
+    font-family: 'Raleway', sans-serif;
+}
+
+.Movie{
+    margin-left: 30px;
+    padding-top: 0px;
+    display: flex;
+    
+}
+
+img{
+    margin-left: 10px;
+}
+#name{
+    display: flex;
+    margin-left: 50px;
+    gap: 90px;
+}
+.Movie-1{
+        margin-left: 30px;
+        padding-top: 0px;
+        display: flex;
+
+}
+
+.Name-1{
+    display: flex;
+    margin-left: 50px;
+    gap: 60px;
+}
+body{
+    background-color: rgb(36, 32, 32);
+}
